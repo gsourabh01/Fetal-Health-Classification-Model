@@ -2,9 +2,9 @@
 
              Cardiotocography (CTG) is used during pregnancy to monitor fetal heart rate and uterine contractions. It is monitor fetal well-being and allows early detection of fetal distress. 
 
-             CTG interpretation helps in determining if the pregnancy is high or low risk.  An abnormal CTG may indicate the need for further investigations and potential intervention.
+  CTG interpretation helps in determining if the pregnancy is high or low risk.  An abnormal CTG may indicate the need for further investigations and potential intervention.
 
-            In this project, I will create a model to classify the outcome of Cardiotocogram test to ensure the well being of the fetus. 
+ In this project, I will create a model to classify the outcome of Cardiotocogram test to ensure the well being of the fetus. 
 
  Step 1: IMPORTING LIBRARIES
 
